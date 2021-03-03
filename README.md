@@ -1,5 +1,5 @@
-<div align="center>
-# Hello!
+<div align="center">
+## Hello!
 
 - :star2: Developing skills in full stack web development certification with the University of New Hampshire
 - 🤔 I’m looking for help with transitioning into a career in web development
