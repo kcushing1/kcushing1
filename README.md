@@ -1,7 +1,8 @@
 <div align="center">
 
-:star2: Developing skills in full stack web development certification with the University of New Hampshire  
-🤔 I’m looking for help with transitioning into a career in web development  
+:star2: Recently graduated from a full stack web development certification with the University of New Hampshire  
+Actively seeking an exciting new career!
+
 :email: kasey.cushing@gmail.com  
 😄 Pronouns: she/her/hers
 
